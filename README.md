@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="VanillaLauncher/Resources/vanillablu2x.png" width="384">
+   <img src="vanillared2x.png" width="384">
    <h4>A launcher for an old brick-building game.</h4>
    <p>
       <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/frickinfire/VanillaLauncher">
